@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+flagged/
+gradio_cached_examples/
+*.mp3
+*.wav
+*.m4a
+.DS_Store

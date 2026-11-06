@@ -1,0 +1,4 @@
+gradio
+pypdf
+openai-whisper
+requests
