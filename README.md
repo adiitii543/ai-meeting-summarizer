@@ -50,6 +50,17 @@ for _ in range(30):
 
 ## Configuration
 Edit the top of `app.py`:
+
+## Screenshots
+### Home
+![Home](screenshots/01-home.png)
+
+### Meeting Report (English)
+![Meeting report](screenshots/02-output.png)
+
+### Hindi Support
+![Hindi input](screenshots/01-hindi.png)
+![Hindi report](screenshots/02-hindi.png)
 - `OLLAMA_MODEL` – change the LLM
 - `WHISPER_MODEL_SIZE` – `base` (fast) or `small` (better for Hindi)
 
